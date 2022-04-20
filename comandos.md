@@ -29,3 +29,6 @@
 
 ## Fazer o push (envio) para o repositório remoto
 `git push -u origin main`
+
+## Recuperar o histórico do repositório remoto
+`git pull`
